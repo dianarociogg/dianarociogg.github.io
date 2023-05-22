@@ -1,0 +1,12 @@
+title: Diana Rocío Galindo # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Data and geospatial technologies lover
+ <br><br>
+ <a href="https://www.linkedin.com/in/drgalindog/">LinkedIn</a>
+ <br> 
+ <a href="https://github.com/drgalindog/drgalindog.github.io/blob/master/pdf/220925_CVDRGG_UPCST.pdf">CV</a>  
+  <br>
+
+  
+theme: jekyll-theme-minimal
