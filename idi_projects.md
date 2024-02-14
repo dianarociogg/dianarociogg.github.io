@@ -1,7 +1,5 @@
-## Applied research and innovation projects for geospatial data management
-
-During my professional career, I have had the opportunity to develop and lead applied research, innovation and development projects for different institutions in Colombia. In theses cases, with the work team in charge, we developed projects where my main function included designing strategies, in some cases, establishing the techniques to be used and also, to make diffussion and positioning the results with different stakeholders as to accompany and technically guide the projects, here are some of the most relevant projects and results (in spanish): 
-
+## Lead applied research and innovation projects for geospatial data management
+(In spanish)
 - [Deep Learning applied to the classification of construction typologies](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0007_deeplearning.jpg)
 - [Methodology for obtaining and analyzing real estate data using alternative sources](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0008_webscraping.jpg),
 - [Optimization for digital soil mapping](https://ciaf.igac.gov.co/sites/ciaf.igac.gov.co/files/ciaf/wp-content/uploads/2017/08/0003_mapeosuelos.jpg)
@@ -10,8 +8,7 @@ During my professional career, I have had the opportunity to develop and lead ap
 - [Strengthening Colombia's Spatial Data Infrastructure](https://www.icde.gov.co/)
 - [Diffusion and transfer of knowledge in geospatial technologies](https://semanageomatica.igac.gov.co/2020/)
 
-
-During the development of my academic career, I have been very interested in segmentation, processing and classification algorithms for Earth Observation data:
+## Some EO data analyses
 
 - [Merging multispectral and pancromatic bands of landsat using cokriging](https://novaresearch.unl.pt/en/publications/merging-multispectral-and-pancromatic-bands-of-landsat-using-cokr-2)
 
