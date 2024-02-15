@@ -35,11 +35,6 @@ My background comes from geospatial data (vector and raster), statistical data a
 
 ---
 
-### Production and analysis of georeferenced data
-
-But before making data science and on a daily basis in my career, I am always involved in retrieving, collecting, structuring and visualizing geographic data, also known as geospatial, geolocated, georeferenced, or location-based data. These are some examples:
-
-
 - [Geopandas analysis](https://github.com/drgalindog/dianarocioprojects/tree/main/Python)
 - [R dashboard with map](https://github.com/drgalindog/dianarocioprojects/tree/main/R)
 - [Some map thumbnails collection](/images/thumbnail_2.jpg)
